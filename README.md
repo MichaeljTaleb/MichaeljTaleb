@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/michael-taleb-782720268/">
+<h1>Hi, I'm Michael! <br/><a href="https://github.com/michaeljtaleb">Programmer</a>, <a href="https://www.linkedin.com/in/michael-taleb-782720268/">
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
