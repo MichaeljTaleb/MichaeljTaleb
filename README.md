@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python]()
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]()
