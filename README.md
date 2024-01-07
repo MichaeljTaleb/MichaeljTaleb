@@ -9,7 +9,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/michael-taleb-782720268/" />][linkedin]
+[<img align="left" alt="Michaeltaleb | LinkedIn" width="22px" src="https://www.linkedin.com/in/michael-taleb-782720268/" />][linkedin]
 
 [instagram]: https://www.instagram.com/michaeljtaleb/
 [linkedin]: https://www.linkedin.com/in/michael-taleb-782720268/
