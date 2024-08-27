@@ -7,7 +7,6 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]()-->
 
-<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Michaeltaleb | LinkedIn" width="22px" src="https://www.linkedin.com/in/michael-taleb-782720268/" />][linkedin]
 
